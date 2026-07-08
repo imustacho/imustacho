@@ -1,6 +1,8 @@
 <div align="center">
-<p href="https://mustacho.dev">
+<p>
+    <a href="https://mustacho.dev">
     <img src="assets/mustacho-h1.png" width="420" alt="mustacho">
+    </a>
 </p>
 
 
