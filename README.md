@@ -1,5 +1,5 @@
 <div align="center">
-<p>
+<p href="https://mustacho.dev">
     <img src="assets/mustacho-h1.png" width="420" alt="mustacho">
 </p>
 
